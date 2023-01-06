@@ -1,0 +1,37 @@
+body, html {
+    background-color: #3B7ECF ;
+    cursor: crosshair;
+}
+
+.propat {
+    font-size: 23px;
+    text-align: center;
+    color: black ;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h2 {
+    font-size: 23px;
+    color: red;
+}
+
+h3 {
+    font-size: 18px;
+    color: blue
+}
+
+h4 {
+    font-size: 18px;
+    color: #EA2AEA;
+}
+
+h5 {
+    font-size: 18px;
+    color: #2AD9EA;
+}
+
+.left {
+    font-size: 13px;
+    color: #FA0000;
+    text-align: right;
+}
